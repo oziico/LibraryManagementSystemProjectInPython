@@ -2,7 +2,8 @@
 
 ## In this project you can:  
 List available books: View a list of all books in the library.  
-Add new books: Enter book details (title, author, release year, number of pages) to add them to the library's catalog.  
+Add new books: Enter book details (title, author, release year, number of pages) to add them to the library's catalog. 
+!(https://github.com/oziico/Library-Management-Project-in-Python/issues/1)
 Remove books: Search for and remove books from the library's catalog.  
 Input validation: Ensures correct book title input during removal.  
 Error handling: Handles potential issues like missing books or invalid choices.  
