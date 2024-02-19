@@ -1,0 +1,5 @@
+Suç ve Ceza,Dostoyevski,123,704
+Dönüşüm,Franz Kafka,123,104
+Beyaz Zambaklar Ülkesinde,Petrov,123,136
+Gurur ve Önyargı,Jane Austen,123,408
+Devlet,Platon,123,372
